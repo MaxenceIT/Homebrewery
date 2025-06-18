@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'LEGOTypewell';
-  src: url('https://cdn.jsdelivr.net/gh/MaxenceIT/Homebrewery/LHistoireDuDragonRouge/fonts/LEGOTypewell-Regular.ttf') format('truetype');
+  src: url('fonts/LEGOTypewell-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'LEGOTypewellBold';
-  src: url('https://cdn.jsdelivr.net/gh/MaxenceIT/Homebrewery/LHistoireDuDragonRouge/fonts/LEGOTypewell-Bold.ttf') format('truetype');
+  src: url('fonts/LEGOTypewell-Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
